@@ -42,7 +42,7 @@ PRINT_HELP() {
   echo "$VAR_SCRIPTNAME -f path/my_log_file.log          Specify log file and path to use"
   echo "$VAR_SCRIPTNAME -s                                 Disable speedtest on reconnect"
   echo "$VAR_SCRIPTNAME -c                Check connection ever (n) seconds. Default is 5"
-  echo "$VAR_SCRIPTNAME -u            URL/Host to check, default is http://www.google.com"
+  echo "$VAR_SCRIPTNAME -u            URL/Host to check, default is http://www.baidu.com"
   echo "$VAR_SCRIPTNAME -w                                  Enable the remote webinteface"
   echo "$VAR_SCRIPTNAME -p                  Specify an optional port for the webinterface"  
   echo "$VAR_SCRIPTNAME -i                           Install netcheck as a system service"
